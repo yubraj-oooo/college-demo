@@ -1,3 +1,3 @@
 # college-demo
 This is my second project<br>
-Author - Yubraj Reule
+Author - Yubraj Reule(Beginner)
